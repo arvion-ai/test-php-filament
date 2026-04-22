@@ -13,7 +13,7 @@
         "guzzlehttp/guzzle": "^7.2",
         "laravel/framework": "^11.0",
         "laravel/sanctum": "^4.0",
-        "laravel/tinker": "^2.8",
+        "laravel/tinker": "^v2.11.1",
         "phiki/phiki": "^2.0"
     },
     "require-dev": {
